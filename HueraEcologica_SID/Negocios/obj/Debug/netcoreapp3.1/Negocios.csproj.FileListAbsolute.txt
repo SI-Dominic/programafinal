@@ -1,0 +1,5 @@
+D:\Sidominic\HuertaEcologicaFinal-main\HueraEcologica_SID\Negocios\obj\Debug\netcoreapp3.1\Negocios.csproj.AssemblyReference.cache
+D:\Sidominic\HuertaEcologicaFinal-main\HueraEcologica_SID\Negocios\obj\Debug\netcoreapp3.1\Negocios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sidominic\HuertaEcologicaFinal-main\HueraEcologica_SID\Negocios\obj\Debug\netcoreapp3.1\Negocios.AssemblyInfoInputs.cache
+D:\Sidominic\HuertaEcologicaFinal-main\HueraEcologica_SID\Negocios\obj\Debug\netcoreapp3.1\Negocios.AssemblyInfo.cs
+D:\Sidominic\HuertaEcologicaFinal-main\HueraEcologica_SID\Negocios\obj\Debug\netcoreapp3.1\Negocios.csproj.CoreCompileInputs.cache
